@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.subscription  {
+.subscription p {
     font-size: 18px;
     font-family: var(--plus-jakarta-sans);
     font-weight: 300;
