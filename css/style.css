@@ -289,7 +289,7 @@ a {
     }
 
     .trending-drink {
-        flex-direction: column-reverse;
+        flex-direction: column-reverse !important;
     }
 
     .trending__image {
@@ -307,6 +307,7 @@ a {
 }
 
 @media screen and (max-width: 550px) {
+    
     .trending__image img {
         width: 70%;
         height: 70%;
